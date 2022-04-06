@@ -1,8 +1,7 @@
 ### Olá! Eu sou ohenriquesouza.
 
-- 📚 Estudante de Engenharia da computação pelo CEFET-MG.
-- 🤝 Procurando sempre evoluir, gosto de ajudar e ser ajudado!
-- 🌱 No meu tempo, eu sigo meu caminho.
+- Estudante de Engenharia da computação pelo CEFET-MG.
+- Atualmente estou cursando o 3º período.
 
    
 <div style="display: inline_block"><br>
