@@ -1,4 +1,4 @@
-### Olá! Eu sou ohenriquesouza.
+### Olá!
 
 - Graduando em Engenharia da computação pelo CEFET-MG Campus V.
 - Atualmente estou cursando o 3º período.
