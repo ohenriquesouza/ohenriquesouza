@@ -1,7 +1,7 @@
 ### Olá!
 
 - Graduando em Engenharia da computação pelo CEFET-MG Campus V.
-- Atualmente estou cursando o 3º período.
+- Atualmente estou cursando o 5º período.
 
    
 <div style="display: inline_block"><br>
