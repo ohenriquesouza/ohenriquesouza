@@ -19,6 +19,7 @@
    <img align="center" alt="Henrique- Linux" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
    <img align="center" alt="Henrique- Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
    </div>
+   
   ##
    
   <a href = "mailto:henriquesouzafagundes2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
