@@ -1,7 +1,8 @@
 ### Olá!
 
-- Graduando em Engenharia da computação pelo CEFET-MG Campus V;
-- Atualmente estou cursando o 5º período;
+- Graduando em Engenharia da computação pelo CEFET-MG, atualmente no 5º período;
+- Experiência de estágio com desenvolvimento em Angular ✔️;
+- Experiência de estágio com gerência de projetos (plataformas: GLPI, GitLab, Trello) ✔️;
 
  <h4>Tecnologias:</h4>
  <div style:"display: inline">
@@ -13,6 +14,7 @@
   <img align="center" alt="Henrique- CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Henrique- Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
  <img align="center" alt="Henrique- MD" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg">
+ <img align="center" alt="Henrique- Office" height="30" width="40" src="https://img.icons8.com/?size=512&id=37619&format=png">
  </div>
  <h4>Sistemas Operacionais:</h4>
    <div style:"display: inline">
