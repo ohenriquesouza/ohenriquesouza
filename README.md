@@ -1,8 +1,9 @@
 ### Olá!
 
-- Graduando em Engenharia da computação pelo CEFET-MG, atualmente no 5º período;
-- Experiência de estágio com desenvolvimento em Angular ✔️;
-- Experiência de estágio com gerência de projetos (plataformas: GLPI, GitLab, Trello) ✔️;
+- Analista de Requisitos Júnior;
+- Graduando em Engenharia da computação pelo CEFET-MG [ 7/10 ] 📚;
+- Experiência de estágio com desenvolvimento em Angular 🌐;
+- Experiência de estágio em análise de requisitos 📋;
 
  <h4>Tecnologias:</h4>
  <div style:"display: inline">
