@@ -1,4 +1,4 @@
-### Olá!
+### Hi
 
 - Junior Requirements Analyst;
 - Software tester specializing in bash;
