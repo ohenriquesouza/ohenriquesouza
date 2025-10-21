@@ -3,7 +3,7 @@
 - Junior Requirements Analyst;
 - Software tester specializing in bash;
 - Average knowledge function point counts;
-- Graduating in Computer Engineering from CEFET-MG [8/10] 📚;
+- Graduating in Computer Engineering from CEFET-MG [10/10] 📚;
 - Angular and Node Js experience 🌐;
 - Internship in requirements analysis 📋;
 
